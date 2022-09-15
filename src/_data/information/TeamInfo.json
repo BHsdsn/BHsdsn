@@ -1,44 +1,51 @@
 {
-  "teamDesc": "<p>Our team works together to coordinate the network activities, engage with our members, and collaborate with other stakeholders within the country.</p>",
+  "teamDesc": "<p>The WB SDSN team consisting leaders and experts from academia, business and educational sector.</p><p>Co-Chairs are coming from highly respective university positions in the Bosnia and Herzegovina. Network managers are experts in the field of research and development</p>",
   "leadershipCouncil": true,
   "networkManagers": true,
-  "youthCoordinators": true,
+  "youthCoordinators": false,
   "lcTitle": "Leadership Council",
   "nmTitle": "Network Managers",
   "youthTitle": "The Youth Team",
-  "lcDesc": "<p>The Network is guided by a Leadership Council - made up of global sustainable development leaders from all regions and all sectors, including civil society, public, and private sectors.</p>",
-  "nmDesc": "Network Managers coordinate the network, working with Member Institutions to identify potential collaboration within the network.",
+  "lcDesc": "<p>Leadership Council consisting of visionary development leaders from academia, business, NGOs from Western Balkan countries (Albania, Bosnia and Herzegovina, Kosovo, Montenegro, Northern Macedonia, and Serbia) with our partners from SDSN Greece and SDSN Europe.</p>",
+  "nmDesc": "<p><em>Network Managers have over 25 years of experience in the economics and research and development. Specialized in field of Management</em></p>",
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
     {
-      "name": "The Fifth Member",
-      "networkPosition": "Council Member",
+      "name": "dr. Muamer Halilbasić",
+      "email": "",
+      "networkPosition": "The Economic Institute Sarajevo - Director",
       "position": "",
+      "photo": ""
+    },
+    {
+      "name": "dr. Zlatko Lagumdžija",
+      "networkPosition": "Council Member",
+      "position": "Shared Society and values Foundation Sarajevo - Founder",
       "photo": "",
       "email": ""
     },
     {
-      "name": "Sally by the Seashore",
+      "name": "dr. Jasmina Selimović",
       "networkPosition": "Council Member",
-      "position": "",
-      "photo": "/uploads/men-s-wearing-black-suit-jacket-and-pants-937481.jpg",
+      "position": "School of Business and Economics, University Sarajevo -  Dean",
+      "photo": "",
       "email": ""
     }
   ],
   "nmProfiles": [
     {
-      "name": "John Name",
+      "name": "Lamija Ćeremida",
       "networkPosition": "Network Manager",
       "position": "",
-      "photo": "/uploads/men-s-wearing-black-suit-jacket-and-pants-937481.jpg",
-      "email": ""
+      "photo": "",
+      "email": "lamija.ceremida@gmail.com"
     },
     {
-      "name": "Marie Name",
+      "name": "Amina Lagumdžija",
       "networkPosition": "Network Manager",
       "position": "",
-      "photo": "/uploads/photo-of-woman-wearing-head-scarf-2951093.jpg",
-      "email": ""
+      "photo": "",
+      "email": "aminarl@hotmail.com"
     }
   ],
   "youthProfiles": [
