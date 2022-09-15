@@ -11,10 +11,38 @@
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
     {
+      "name": "Aleksandar Vlahović",
+      "email": "",
+      "networkPosition": "Council member",
+      "position": "Economists Association of Serbia - President",
+      "photo": ""
+    },
+    {
+      "name": "dr. Dragan Domazet",
+      "email": "",
+      "networkPosition": "Council member",
+      "position": "Metropolitan University, Belgrade, Serbia - Rector",
+      "photo": ""
+    },
+    {
+      "networkPosition": "Council member",
+      "name": "dr. Jadranka Kaludjerović",
+      "email": "",
+      "position": "Institute for Strategic Studies and Predictions, Montenegro, Podgorica, Director",
+      "photo": ""
+    },
+    {
+      "name": "dr. Igor Luksić",
+      "email": "",
+      "networkPosition": "Council member",
+      "position": "Institute for Security, Sustainable Development and Digital Solutions, Montenegro, Podgorica, Founder",
+      "photo": ""
+    },
+    {
       "name": "dr. Muamer Halilbasić",
       "email": "",
-      "networkPosition": "The Economic Institute Sarajevo - Director",
-      "position": "",
+      "networkPosition": "Council member",
+      "position": "The Economic Institute Sarajevo - Director",
       "photo": ""
     },
     {
