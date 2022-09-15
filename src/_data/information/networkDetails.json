@@ -1,29 +1,19 @@
 {
-  "logo": "/uploads/sdsn-antarc.png",
-  "whitelogo": "/uploads/sdsn-antsarc.png",
-  "favicon": "/uploads/favicon.png",
-  "networkName": "Antarctica",
-  "networkDesc": "<p>SDSN Antarctica is a community of universities, research centers, and other knowledge institutions to translate the latest expertise in sustainable development into action.</p>",
-  "networkVision": "Mobilizing SDG implementation through solution initiatives and long-term pathways in Antarctica.",
-  "networkVisionSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.",
+  "logo": "/uploads/sdsn-networks-logo-western-balkans.jpg",
+  "whitelogo": "/uploads/sdsn-networks-logo-western-balkans-1c-wht.png",
+  "favicon": "/uploads/sdsn-networks-logo-western-balkans.png",
+  "networkName": "Western Balkans",
+  "networkDesc": "<p><em>SDSN Western Balkans is a regional community of universities, research centers, and knowledge institutions. It is developed as a network for regional countries in cooperation with SDSN Greece and SDSN Europe as a helpful tool for applying SDG and Agenda 2030. Our network aims to teach sustainable development, support solution initiatives, and localize the SDGs in Western Balkan countries.</em></p><p><em>We engage with academia, scientists, researchers, business and civil society leaders, and development practitioners for evidence-based problem-solving.</em></p>",
+  "networkVision": "Agenda 2030 and the SDGs are perceived as mutually reinforcing and complimentary processes that encourage institutions and citizens to strive for a better society and a future where no one is left behind and where people, prosperity, peace, partnership, and care for our planet are at the core of a better and common future.",
+  "networkVisionSubtitle": "Agenda 2030 and the SDGs are perceived as mutually reinforcing and complimentary processes that encourage institutions and citizens to strive for a better society and a future where no one is left behind and where people, prosperity, peace, partnership, and care for our planet are at the core of a better and common future. Project resonates deeply with the principle of ‘no one left behind’ in Agenda 2030. This continues to be an important principle for the diverse populations Western Balkans struggling to define a political and social order that respects the identity groups present in a governance and social architecture coherent with the requirements for European integration. 2 Agenda 2030 offers an opportunity to build a consensus vision for social development in the region with full respect for the inclusion of distinct identities.",
   "networkObjectives": [
     {
-      "header": "Localize the SDGs to Antarctica 1",
-      "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.</p>",
-      "link": ""
-    },
-    {
-      "header": "Localize the SDGs to Antarctica 5",
-      "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.</p>",
-      "link": "sdgstudent.org"
-    },
-    {
-      "header": "Localize the SDGs to Antarctica 3",
+      "header": "To provide support for the implementation of the Agenda 2030",
       "desc": "",
-      "link": "sdgstudent.org"
+      "link": "https://"
     }
   ],
-  "impactSection": true,
+  "impactSection": false,
   "networkImpact": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu. Vivamus fermentum ex ut mauris feugiat convallis. Fusce cursus diam vel nunc lobortis, nec finibus orci lacinia.</p>",
   "networkMetrics": [
     {
@@ -39,8 +29,8 @@
       "desc": "<p>Member Institutions in the South Pole - covering academia, fisheries and ice cap management firms.</p>"
     }
   ],
-  "networkEmail": "antarc@unsdsn.org",
-  "websiteTitle": "SDSN Antarctica",
+  "networkEmail": "lamija.ceremida@gmail.com aminarl@hotmail.com",
+  "websiteTitle": "SDSN Western Balkans",
   "websiteURL": "https://sdsn-rn-network.netlify.app/",
   "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shr69E7ELoC9HAx5U?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
   "title": "Network Details"
