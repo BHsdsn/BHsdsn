@@ -46,11 +46,6 @@
       "text": "THE SDGs",
       "menuItems": [
         {
-          "text": "Local SDGs",
-          "url": "/sdgs",
-          "external": false
-        },
-        {
           "text": "SDG Resources",
           "url": "/resources",
           "external": false
