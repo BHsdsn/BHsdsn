@@ -1,6 +1,13 @@
 {
   "contactProfiles": [
     {
+      "photo": "",
+      "contactHeader": "Contact our Network Manager",
+      "contactDesc": "Discuss partnerships opportunities or how to join our network.",
+      "ctaTitle": "Contact Amina today",
+      "ctaEmail": "aminarl@hotmail.com"
+    },
+    {
       "contactHeader": "Contact our Network Manager",
       "contactDesc": "Discuss partnerships opportunities or how to join our network.",
       "ctaTitle": "Contact Lamija today",
