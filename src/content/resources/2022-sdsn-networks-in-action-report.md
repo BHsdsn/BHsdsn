@@ -3,7 +3,10 @@ pageTitle: Resource
 postDate: 2022-09-19T08:17:09+00:00
 author: Network Manager
 resourcesToggle: true
-tags: []
+tags:
+- Report
+- '2022'
+- NiA
 fImage: "/uploads/screenshot-2022-09-19-at-22-19-13.png"
 title: 2022 SDSN Networks in Action Report
 desc: "<p></p>"
