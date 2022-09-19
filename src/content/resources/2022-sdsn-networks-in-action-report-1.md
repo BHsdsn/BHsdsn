@@ -11,7 +11,7 @@ tags:
 fImage: "/uploads/screenshot-2022-09-19-at-22-19-13.png"
 title: 2022 SDSN Networks in Action Report
 desc: ''
-ctaTitle: ''
+ctaTitle: Download the report
 mainUploadToggle: true
 ctaURL: ''
 file: "/uploads/18-9-2022_sdsn-networks-in-action.pdf"
