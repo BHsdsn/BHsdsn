@@ -2,7 +2,7 @@
 pageTitle: Resource
 postDate: 2022-06-22T08:17:09+00:00
 author: Network Manager
-resourcesToggle: true
+resourcesToggle: false
 tags:
 - Report
 - '2022'
@@ -12,7 +12,7 @@ fImage: "/uploads/screenshot-2022-09-19-at-22-19-13.png"
 title: 'Special edition of the Sustainable Development Report for the Western Balkans
   2022 '
 desc: "<p></p>"
-ctaTitle: ''
+ctaTitle: Download the report
 mainUploadToggle: true
 ctaURL: ''
 file: "/uploads/18-9-2022_sdsn-networks-in-action.pdf"
