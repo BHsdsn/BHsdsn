@@ -22,7 +22,7 @@ SDSN Western Balkans (WB) recently held its official launch event on Mar 3, 2022
 
 The meeting featured Professors Jeffrey Sachs and Phoebe Koundouri, world-renowned economists and global leaders in sustainable development; the co-chairs of SDSN WB, Professors Zlatko Lagumdžija and Jasmina Selimović; and some of the region’s most prominent experts and pioneers in the field of sustainable development. Participants from government, NGOs, and the private sector shared their perspectives on various challenges faced by the countries of the region in advancing towards a more prosperous, sustainable future.
 
-Video link: [https://youtu.be/UlCOez_XtQM](https://youtu.be/UlCOez_XtQM "https://youtu.be/UlCOez_XtQM")
+ ([link to video](https://youtu.be/5d0b31x0bRc "Link: https://youtu.be/5d0b31x0bRc")).
 
 “Sustainable Development Solutions Network (SDSN) is an initiative of the UN for the achievement of the 17 SDGs adopted in 2015. By mobilizing higher education institutions and engaging with the actors from the public and private sectors, SDSN Western Balkans will aim to support their achievement.”
 
