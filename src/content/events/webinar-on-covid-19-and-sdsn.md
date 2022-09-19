@@ -19,6 +19,8 @@ SDSN Western Balkans (WB) recently held its official launch event on Mar 3, 2022
 
 The meeting featured Professors Jeffrey Sachs and Phoebe Koundouri, world-renowned economists and global leaders in sustainable development; the co-chairs of SDSN WB, Professors Zlatko Lagumdžija and Jasmina Selimović; and some of the region’s most prominent experts and pioneers in the field of sustainable development. Participants from government, NGOs, and the private sector shared their perspectives on various challenges faced by the countries of the region in advancing towards a more prosperous, sustainable future.
 
+Video link: [https://youtu.be/UlCOez_XtQM](https://youtu.be/UlCOez_XtQM "https://youtu.be/UlCOez_XtQM")
+
 “Sustainable Development Solutions Network (SDSN) is an initiative of the UN for the achievement of the 17 SDGs adopted in 2015. By mobilizing higher education institutions and engaging with the actors from the public and private sectors, SDSN Western Balkans will aim to support their achievement.”
 
 ![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/image_2022_03_03T13_48_55_622Z-243d844d-4ed829f5-1920w.png) 
@@ -42,8 +44,6 @@ SDGs in the Western Balkans and in Europe
 _The SDG Index across the EU27 countries has declined slightly in 2020 for the first time since 2005 due to COVID-19_
 
 According to the 2021 Europe Sustainable Development Report (ESDR), the EU candidate countries, as well as Bosnia and Herzegovina, perform well below the EU average SDG score, although they were making progress before the pandemic hit. Countries of the region have an average score in 2020 of just above 55%, driven notably by poorer performance on socio-economic goals (SDG 1 and SDGs 3 to 9) and on SDG 16 (Justice, peace and strong institutions). SDSN’s results suggest that some convergence has occurred over the past decade, with European regions and countries that started at lower SDG Index scores progressing faster than those at higher scores. However, the pace of convergence remains slow. At the present growth rates, candidate countries would not attain scores currently held by Northern Europe for another 52 years. Southern Europe would reach this level in 18 years, while Central and Eastern Europe would reach it in 17 years.
-
-[https://irp.cdn-website.com/6f2c9f57/dms3rep/multi/figure-1-3.svg](https://irp.cdn-website.com/6f2c9f57/dms3rep/multi/figure-1-3.svg "https://irp.cdn-website.com/6f2c9f57/dms3rep/multi/figure-1-3.svg")
 
 _Average annual growth rate of the SDG Index from 2010 to 2015 versus 2015 to 2019 (%)_
 
