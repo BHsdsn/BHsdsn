@@ -6,13 +6,13 @@ tags:
 - GlobalForum
 - '2022'
 - Baku
-ctaTitle: Register
+ctaTitle: ''
 title: SDSN at the IX Global Baku Forum
 fImage: "/uploads/baku-conference-1920w.jpg"
 featuredToggle: true
 desc: ''
 ctaURL: ''
-location: ''
+location: Baku
 
 ---
 From 16 to 18 June, 2022 , members and leaders of SDSN, [SDSN Black Sea](http://sdsn-blacksea.auth.gr/), [SDSN Western Balkans](https://www.unsdsn.org/western-balkans), and [SDSN Europe](https://sdsn.eu/) took part in the 9th Global Baku Forum, organized by the [Nizami Ganjavi International Center](http://nizamiganjavi-ic.org/aboutus) (NGIC). This important global event gathered more than 400 top diplomats, current and former heads of state, Nobel prize winners, and other regional business, scientific, and political leaders in Baku, Azerbaijan, to discuss the “Challenges to the Global World Order”.
