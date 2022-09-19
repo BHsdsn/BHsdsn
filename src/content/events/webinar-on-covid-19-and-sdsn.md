@@ -16,9 +16,8 @@ ctaURL: ''
 location: Online webinar
 
 ---
-_The new Western Balkans network will work to mobilize the region’s academic and research institutions, and leverage their strengths to help realize the SDGs and the Paris Agreement; as well as the shared ambition of an EU accession._
+> _The new Western Balkans network will work to mobilize the region’s academic and research institutions, and leverage their strengths to help realize the SDGs and the Paris Agreement; as well as the shared ambition of an EU accession._
 
-  
 SDSN Western Balkans (WB) recently held its official launch event on Mar 3, 2022. The network was officially established in November 2021 with the appointment of the [Sarajevo Institute of Economics](http://www.efsa.unsa.ba/ef/en) and the [Shared Society and Values Foundation](https://ssvsa.org/goal/) as co-host institutions by the SDSN.
 
 The meeting featured Professors Jeffrey Sachs and Phoebe Koundouri, world-renowned economists and global leaders in sustainable development; the co-chairs of SDSN WB, Professors Zlatko Lagumdžija and Jasmina Selimović; and some of the region’s most prominent experts and pioneers in the field of sustainable development. Participants from government, NGOs, and the private sector shared their perspectives on various challenges faced by the countries of the region in advancing towards a more prosperous, sustainable future.
@@ -27,7 +26,7 @@ Video link: [https://youtu.be/UlCOez_XtQM](https://youtu.be/UlCOez_XtQM "https:/
 
 “Sustainable Development Solutions Network (SDSN) is an initiative of the UN for the achievement of the 17 SDGs adopted in 2015. By mobilizing higher education institutions and engaging with the actors from the public and private sectors, SDSN Western Balkans will aim to support their achievement.”
 
-![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/image_2022_03_03T13_48_55_622Z-243d844d-4ed829f5-1920w.png) 
+![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/image_2022_03_03T13_48_55_622Z-243d844d-4ed829f5-1920w.png)
 
 _Prof. Jasmina Selimovic, Dean of the School of Economics and Business, University of Sarajevo and co-chair of SDSN WB_
 
