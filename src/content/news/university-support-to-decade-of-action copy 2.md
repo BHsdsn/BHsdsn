@@ -33,7 +33,7 @@ Data visualization: [https://dashboards.sdgindex.org](https://dashboards.sdginde
 
 **For the first time since the adoption of the SDGs in 2015** **by the international community, the SDG Index has decreased.**
 
-![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDR21+Graphics+Figure+2.2-1920w.png) (sliku postaviti ovdje)
+![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDR21+Graphics+Figure+2.2-1920w.png) 
 
 The COVID-19 pandemic is a setback for sustainable development everywhere. The decline in SDG performance globally is driven to a large extent by increased poverty rates and unemployment. This decline is likely underestimated due to time lags in international statistics. Sound policies and strong global cooperation can restore and accelerate SDG progress in the coming decade. The report presents a detailed framework for how countries can “build forward” better using the SDGs.
 
@@ -54,7 +54,7 @@ Global challenges, including pandemics but also climate change and the biodivers
 
 Achieving the SDGs is a global responsibility. Domestic strategies to achieve the SDGs must avoid generating negative impacts – or “spillovers” – on other countries. The report shows that high-income countries and OECD countries tend to generate the largest negative spillovers, notably through unsustainable supply chains, base erosion, and profit shifting. Spillovers must be understood, measured, and carefully managed.
 
-![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDR21+Graphics+Figure+2.18-1920w.png) (sliku postaviti ovdje)
+![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDR21+Graphics+Figure+2.18-1920w.png) 
 
 **Other findings of the Sustainable Development Report 2021**
 
