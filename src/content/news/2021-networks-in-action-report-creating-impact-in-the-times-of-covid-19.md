@@ -15,7 +15,7 @@ aboutAuthor: ''
 embeddedContent: []
 
 ---
-![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDSN+Networks+2021_COVER+low+res-1920w.jpg) 
+![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDSN+Networks+2021_COVER+low+res-1920w.jpg)
 
 Impact in the Times of a Global Pandemic
 
@@ -29,13 +29,9 @@ In 2021, for the first time, the report includes chapters on SDSN Bangladesh and
 
 Moreover, the report shows how SDSN’s networks successfully executed their digital transformation, organizing dozens of online events and reaching wider audiences than ever before. Their improved online presence on social media was also accompanied by thousands of downloads of publications as well as the establishment of new partnerships relating to the Voluntary National Reviews, National SDG planning, and youth initiatives.
 
-![pastedGraphic.png](blob:https://app.forestry.io/0585316b-c921-431f-8aa9-6a3ed57501e7)
-
 _The 2021 Networks in Action Report is an inspiring record of leadership by universities around the world to collaborate and promote urgently needed solutions for the SDGs. In the face of a complex global crisis, SDSN’s Networks have demonstrated their commitment, ingenuity, resilience and flexibility. The worldwide growth of SDSN membership and the five new SDSN networks are testimony to the vital importance and relevance of the university networks._
 
 _Prof. Jeffrey D. Sachs, President of SDSN_
-
-![pastedGraphic.png](blob:https://app.forestry.io/0585316b-c921-431f-8aa9-6a3ed57501e7)
 
 Partnerships that Last
 
