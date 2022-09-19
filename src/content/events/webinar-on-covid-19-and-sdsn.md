@@ -9,7 +9,7 @@ tags:
 - Network
 ctaTitle: Read
 title: New Regional Network Launched in the Western Balkans
-fImage: "/uploads/screenshot-2022-09-19-at-20-38-04.png"
+fImage: "/uploads/screenshot-2022-09-19-at-20-35-36.png"
 featuredToggle: true
 desc: "<p></p>"
 ctaURL: ''
@@ -40,6 +40,8 @@ In the coming weeks and months, the network will work on providing support to th
 
 “Western Balkans are joining a worldwide effort and will be fully incorporated into the problem-solving mission that the SDSN represents. What SDSN undertakes is conceptualizing how to proceed, strengthening of education programs, strengthening of the research agenda and of civil society understanding of the issues and convening of governments”.
 
+![](/uploads/screenshot-2022-09-19-at-20-38-04.png)
+
 _Prof. Jeffrey Sachs, SDSN President_
 
 SDGs in the Western Balkans and in Europe
@@ -47,6 +49,8 @@ SDGs in the Western Balkans and in Europe
 _The SDG Index across the EU27 countries has declined slightly in 2020 for the first time since 2005 due to COVID-19_
 
 According to the 2021 Europe Sustainable Development Report (ESDR), the EU candidate countries, as well as Bosnia and Herzegovina, perform well below the EU average SDG score, although they were making progress before the pandemic hit. Countries of the region have an average score in 2020 of just above 55%, driven notably by poorer performance on socio-economic goals (SDG 1 and SDGs 3 to 9) and on SDG 16 (Justice, peace and strong institutions). SDSN’s results suggest that some convergence has occurred over the past decade, with European regions and countries that started at lower SDG Index scores progressing faster than those at higher scores. However, the pace of convergence remains slow. At the present growth rates, candidate countries would not attain scores currently held by Northern Europe for another 52 years. Southern Europe would reach this level in 18 years, while Central and Eastern Europe would reach it in 17 years.
+
+![](/uploads/screenshot-2022-09-19-at-20-53-31.png)
 
 _Average annual growth rate of the SDG Index from 2010 to 2015 versus 2015 to 2019 (%)_
 
