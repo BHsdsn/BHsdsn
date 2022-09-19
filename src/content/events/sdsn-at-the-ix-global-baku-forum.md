@@ -9,7 +9,7 @@ tags:
 ctaTitle: Register
 title: SDSN at the IX Global Baku Forum
 fImage: "/uploads/baku-conference-1920w.jpg"
-featuredToggle: false
+featuredToggle: true
 desc: ''
 ctaURL: ''
 location: ''
