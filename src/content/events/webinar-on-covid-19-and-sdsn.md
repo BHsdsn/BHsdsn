@@ -1,7 +1,7 @@
 ---
 pageTitle: Event
 postDate: 2022-03-03T12:00:00+00:00
-author: Network Secretariat
+author: Network Manager
 tags:
 - WesternBalkans
 - Webinar
