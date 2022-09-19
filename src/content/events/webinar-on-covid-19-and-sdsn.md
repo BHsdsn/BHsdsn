@@ -2,12 +2,16 @@
 pageTitle: Event
 postDate: 2022-03-03T12:00:00+00:00
 author: Network Secretariat
-tags: []
+tags:
+- WesternBalkans
+- Webinar
+- Regional
+- Network
 ctaTitle: ''
 title: New Regional Network Launched in the Western Balkans
 fImage: "/uploads/screenshot-2022-09-19-at-20-38-04.png"
 featuredToggle: true
-desc: "<p>Hello excerpt</p>"
+desc: "<p>New Regional Network Launched in the Western Balkans</p>"
 ctaURL: ''
 location: Online webinar
 
