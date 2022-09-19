@@ -1,14 +1,16 @@
 ---
 pageTitle: Resource
-postDate: 2022-09-19T08:17:09+00:00
+postDate: 2022-06-22T08:17:09+00:00
 author: Network Manager
 resourcesToggle: true
 tags:
 - Report
 - '2022'
 - NiA
+- WesternBalkans
 fImage: "/uploads/screenshot-2022-09-19-at-22-19-13.png"
-title: 2022 SDSN Networks in Action Report
+title: 'Special edition of the Sustainable Development Report for the Western Balkans
+  2022 '
 desc: "<p></p>"
 ctaTitle: ''
 mainUploadToggle: true
@@ -19,11 +21,4 @@ oResources: ''
 otherResources: []
 
 ---
-The Networks in Action (NiA) report presents innovative solutions and partnerships being led by the SDSN’s national, regional, and thematic networks to accelerate progress on sustainable development.
-
-  
- To celebrate 10 years of SDSN, this year’s edition reflects on the growing global role of the SDSN and its achievements over the past decade. In less than ten years, SDSN has become the largest network of experts and scientists dedicated to implementing the Sustainable Development Goals (SDGs)
-
-The report focuses on the impact that our networks have had in the world over the past year – from their efforts to localize the SDGs in their countries, engage with knowledge institutions and youth, improve education for the SDGs, fight the Covid-19 pandemic and advocate for a sustainable recovery, promote viable solutions initiatives, and develop their publications, events, and actions.
-
-The Networks program of SDSN launched its first network in 2013 and has experienced continuous growth ever since, reaching over 1700 member institutions this year and 50 networks across 6 continents. This report highlights the innovative and impactful solutions that our global network puts into practice.
+The Sustainable Development Report for Western Balkan 2022 is the special edition of SDSN global independent quantitative report on the progress of the European Union and European countries towards Sustainable Development Goals (SDGs). The report was prepared by teams of independent experts at the Sustainable Development Solutions Network (SDSN) and the Institute for European Environmental Policy (IEEP).
