@@ -1,7 +1,7 @@
 ---
 pageTitle: Resource News Stories Pages
 postDate: 2021-06-14T01:00:00+00:00
-author: Netwoek Manager
+author: Network Manager
 tags:
 - NewYork
 - SDSN
