@@ -18,16 +18,10 @@
   "socialMedia": true,
   "socialMediaProfiles": [
     {
-      "platform": "Facebook",
-      "ctaTitle": "Follow us on Facebook",
-      "ctaLink": "https://",
-      "socialHeader": "Whatsapp"
-    },
-    {
-      "socialHeader": "Linkedin",
-      "ctaTitle": "Connect with us",
-      "ctaLink": "https://facebook.com/unsdsn",
-      "platform": "Linkedin"
+      "platform": "Instagram",
+      "socialHeader": "Instagram",
+      "ctaTitle": "Follow us on Instagram",
+      "ctaLink": "https://"
     }
   ],
   "title": "Network Contact Information"
