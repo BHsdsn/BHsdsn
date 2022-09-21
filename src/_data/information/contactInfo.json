@@ -18,6 +18,12 @@
   "socialMedia": true,
   "socialMediaProfiles": [
     {
+      "platform": "Facebook",
+      "socialHeader": "Facebook",
+      "ctaTitle": "Follow us on Facebook",
+      "ctaLink": "https://"
+    },
+    {
       "platform": "Instagram",
       "socialHeader": "Instagram",
       "ctaTitle": "Follow us on Instagram",
