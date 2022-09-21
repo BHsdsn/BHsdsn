@@ -8,7 +8,7 @@ tags:
 - '2022'
 - NiA
 - WesternBalkans
-fImage: "/uploads/screenshot-2022-09-19-at-22-19-13.png"
+fImage: "/uploads/screenshot-2022-09-21-at-01-56-48.png"
 title: 'Special edition of the Sustainable Development Report for the Western Balkans
   2022 '
 desc: "<p></p>"
