@@ -12,16 +12,16 @@ desc: "<p>New Report shows COVID-19 Reversed Progress on the UN Sustainable Deve
 ctaTitle: 'A full summary of the meeting is available online. '
 ctaURL: https://irp-cdn.multiscreensite.com/6f2c9f57/files/uploaded/200716%20Summary%20University%20Sector%20Support%20to%20SDGs.pdf
 fImage: "/uploads/screenshot-2022-09-19-at-21-03-22.png"
-featuredToggle: true
+featuredToggle: false
 aboutAuthor: "<p>This is written by the Network Manager</p>"
 embeddedContent: []
 
 ---
-**New York, 14 June 2021** - Today, the Sustainable Development Report (SDR), including the SDG Index and Dashboards to track progress on the Global Goals for 2030, was released. For the first time since Heads of State of all 193 UN member countries agreed on these universal goals at a historic summit in 2015, the annual report shows a reversal in progress. The report was written by a group of authors led by Prof. Jeffrey Sachs, President of the Sustainable Development Solutions Network (SDSN). Published by Cambridge University Press, the publication outlines the short-term impacts of COVID-19 on the SDGs and describes how the SDGs can frame the recovery.  
-   
- _“For the first time since the SDGs were adopted in 2015, the world lost ground on the SDGs in 2020. The Covid-19 pandemic has created not only a global health emergency but also a sustainable development crisis. To restore SDG progress, developing countries need a significant increase in fiscal space, through global tax reform and expanded financing by the multilateral development banks. Fiscal outlays should support the six key SDG transformations: quality education for all, universal health coverage, clean energy and industry, sustainable agriculture and land use, sustainable urban infrastructure, and universal access to digital technologies.”_ says **Jeffrey D. Sachs**, President of the SDSN and first author of the report.  
-   
- **Full report:**
+**New York, 14 June 2021** - Today, the Sustainable Development Report (SDR), including the SDG Index and Dashboards to track progress on the Global Goals for 2030, was released. For the first time since Heads of State of all 193 UN member countries agreed on these universal goals at a historic summit in 2015, the annual report shows a reversal in progress. The report was written by a group of authors led by Prof. Jeffrey Sachs, President of the Sustainable Development Solutions Network (SDSN). Published by Cambridge University Press, the publication outlines the short-term impacts of COVID-19 on the SDGs and describes how the SDGs can frame the recovery.
+
+_“For the first time since the SDGs were adopted in 2015, the world lost ground on the SDGs in 2020. The Covid-19 pandemic has created not only a global health emergency but also a sustainable development crisis. To restore SDG progress, developing countries need a significant increase in fiscal space, through global tax reform and expanded financing by the multilateral development banks. Fiscal outlays should support the six key SDG transformations: quality education for all, universal health coverage, clean energy and industry, sustainable agriculture and land use, sustainable urban infrastructure, and universal access to digital technologies.”_ says **Jeffrey D. Sachs**, President of the SDSN and first author of the report.
+
+**Full report:**
 
 Sachs, J., Kroll, C., Lafortune, G., Fuller, G., Woelm, F. (2021). The Decade of Action for the Sustainable Development Goals: Sustainable Development Report 2021. Cambridge: Cambridge University Press.
 
@@ -33,7 +33,7 @@ Data visualization: [https://dashboards.sdgindex.org](https://dashboards.sdginde
 
 **For the first time since the adoption of the SDGs in 2015** **by the international community, the SDG Index has decreased.**
 
-![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDR21+Graphics+Figure+2.2-1920w.png) 
+![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDR21+Graphics+Figure+2.2-1920w.png)
 
 The COVID-19 pandemic is a setback for sustainable development everywhere. The decline in SDG performance globally is driven to a large extent by increased poverty rates and unemployment. This decline is likely underestimated due to time lags in international statistics. Sound policies and strong global cooperation can restore and accelerate SDG progress in the coming decade. The report presents a detailed framework for how countries can “build forward” better using the SDGs.
 
@@ -54,7 +54,7 @@ Global challenges, including pandemics but also climate change and the biodivers
 
 Achieving the SDGs is a global responsibility. Domestic strategies to achieve the SDGs must avoid generating negative impacts – or “spillovers” – on other countries. The report shows that high-income countries and OECD countries tend to generate the largest negative spillovers, notably through unsustainable supply chains, base erosion, and profit shifting. Spillovers must be understood, measured, and carefully managed.
 
-![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDR21+Graphics+Figure+2.18-1920w.png) 
+![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDR21+Graphics+Figure+2.18-1920w.png)
 
 **Other findings of the Sustainable Development Report 2021**
 
