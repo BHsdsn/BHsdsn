@@ -18,8 +18,8 @@
   "socialMedia": true,
   "socialMediaProfiles": [
     {
-      "platform": "Whatsapp",
-      "ctaTitle": "Message us on Whatsapp",
+      "platform": "Facebook",
+      "ctaTitle": "Follow us on Facebook",
       "ctaLink": "https://",
       "socialHeader": "Whatsapp"
     },
