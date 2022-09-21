@@ -10,7 +10,7 @@ tags:
 ctaTitle: Read
 title: New Regional Network Launched in the Western Balkans
 fImage: "/uploads/screenshot-2022-09-19-at-20-35-36.png"
-featuredToggle: true
+featuredToggle: false
 desc: "<p></p>"
 ctaURL: ''
 location: Online webinar
