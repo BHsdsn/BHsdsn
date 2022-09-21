@@ -13,7 +13,7 @@ title: 'Special edition of the Sustainable Development Report for the Western 
   2022 '
 desc: "<p></p>"
 ctaTitle: Download the report
-mainUploadToggle: true
+mainUploadToggle: false
 ctaURL: ''
 file: "/uploads/18-9-2022_sdsn-networks-in-action.pdf"
 featuredToggle: true
