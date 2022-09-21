@@ -21,7 +21,7 @@ oResources: Download the report
 otherResources:
 - oResourceContent: SDR Western Balkans 2022
   uploadToggle: true
-  resourceFile: "/uploads/18-9-2022_sdsn-networks-in-action.pdf"
+  resourceFile: "/uploads/sdr22-balkans-web-v2-200622-1.pdf"
   resourceURL: ''
 
 ---
