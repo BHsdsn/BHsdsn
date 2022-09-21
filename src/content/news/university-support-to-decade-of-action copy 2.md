@@ -12,7 +12,7 @@ desc: "<p>New Report shows COVID-19 Reversed Progress on the UN Sustainable Deve
 ctaTitle: 'A full summary of the meeting is available online. '
 ctaURL: https://irp-cdn.multiscreensite.com/6f2c9f57/files/uploaded/200716%20Summary%20University%20Sector%20Support%20to%20SDGs.pdf
 fImage: "/uploads/screenshot-2022-09-19-at-21-03-22.png"
-featuredToggle: false
+featuredToggle: true
 aboutAuthor: "<p>This is written by the Network Manager</p>"
 embeddedContent: []
 
