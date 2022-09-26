@@ -11,6 +11,20 @@
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
     {
+      "name": "dr. Zlatko Lagumdžija",
+      "networkPosition": "Co Chair of the Network",
+      "position": "Shared Society and values Foundation Sarajevo - Founder",
+      "photo": "/uploads/zlatko-lagumdzija.jpeg",
+      "email": ""
+    },
+    {
+      "name": "dr. Jasmina Selimović",
+      "networkPosition": "Co Chair of the Network",
+      "position": "School of Business and Economics, University Sarajevo -  Dean",
+      "photo": "/uploads/jasmina-selimovic-network-co-chair.jpg",
+      "email": ""
+    },
+    {
       "name": "Andrija Erac",
       "email": "",
       "networkPosition": "Secretariat Local Point",
@@ -86,20 +100,6 @@
       "networkPosition": "Host institutions representative",
       "position": "The Economic Institute Sarajevo - Director",
       "photo": "/uploads/muamer-halilbasic-host-institution.jpeg"
-    },
-    {
-      "name": "dr. Zlatko Lagumdžija",
-      "networkPosition": "Co Chair of the Network",
-      "position": "Shared Society and values Foundation Sarajevo - Founder",
-      "photo": "/uploads/zlatko-lagumdzija.jpeg",
-      "email": ""
-    },
-    {
-      "name": "dr. Jasmina Selimović",
-      "networkPosition": "Co Chair of the Network",
-      "position": "School of Business and Economics, University Sarajevo -  Dean",
-      "photo": "/uploads/jasmina-selimovic-network-co-chair.jpg",
-      "email": ""
     }
   ],
   "nmProfiles": [
