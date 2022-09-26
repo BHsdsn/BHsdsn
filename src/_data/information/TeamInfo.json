@@ -11,6 +11,13 @@
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
     {
+      "name": "",
+      "email": "",
+      "networkPosition": "",
+      "position": "",
+      "photo": ""
+    },
+    {
       "name": "Senida Mesi",
       "email": "",
       "networkPosition": "Council member",
@@ -76,7 +83,7 @@
     {
       "name": "dr. Muamer Halilbasić",
       "email": "",
-      "networkPosition": "Council member",
+      "networkPosition": "Host institutions representative",
       "position": "The Economic Institute Sarajevo - Director",
       "photo": "/uploads/muamer-halilbasic-host-institution.jpeg"
     },
