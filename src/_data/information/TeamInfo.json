@@ -12,17 +12,17 @@
   "lcProfiles": [
     {
       "name": "dr. Zlatko Lagumdžija",
+      "email": "",
       "networkPosition": "Co Chair of the Network",
       "position": "Shared Society and values Foundation Sarajevo - Founder",
-      "photo": "/uploads/zlatko-lagumdzija.jpeg",
-      "email": ""
+      "photo": "/uploads/zlatko-lagumdzija.jpeg"
     },
     {
       "name": "dr. Jasmina Selimović",
+      "email": "",
       "networkPosition": "Co Chair of the Network",
-      "position": "School of Business and Economics, University Sarajevo -  Dean",
-      "photo": "/uploads/jasmina-selimovic-network-co-chair.jpg",
-      "email": ""
+      "position": "School of Business and Economics, University Sarajevo - Dean",
+      "photo": "/uploads/jasmina-selimovic-network-co-chair.jpg"
     },
     {
       "name": "Andrija Erac",
