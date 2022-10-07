@@ -18,6 +18,12 @@
   "socialMedia": true,
   "socialMediaProfiles": [
     {
+      "platform": "Twitter",
+      "socialHeader": "Twitter",
+      "ctaTitle": "Follow us on Twitter",
+      "ctaLink": "[https://twitter.com/unsdsn](https://twitter.com/unsdsn \"https://twitter.com/unsdsn\")"
+    },
+    {
       "platform": "Linkedin",
       "socialHeader": "Linkedin",
       "ctaTitle": "Follow us on Linkedin",
