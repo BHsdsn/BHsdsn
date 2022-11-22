@@ -54,7 +54,7 @@ Global challenges, including pandemics but also climate change and the biodivers
 
 Achieving the SDGs is a global responsibility. Domestic strategies to achieve the SDGs must avoid generating negative impacts – or “spillovers” – on other countries. The report shows that high-income countries and OECD countries tend to generate the largest negative spillovers, notably through unsustainable supply chains, base erosion, and profit shifting. Spillovers must be understood, measured, and carefully managed.
 
-![](/uploads/rfb.jpeg)![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDR21+Graphics+Figure+2.18-1920w.png)
+![](https://lirp.cdn-website.com/6f2c9f57/dms3rep/multi/opt/SDR21+Graphics+Figure+2.18-1920w.png)
 
 **Other findings of the Sustainable Development Report 2021**
 
