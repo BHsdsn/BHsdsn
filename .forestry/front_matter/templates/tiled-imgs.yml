@@ -25,7 +25,7 @@ fields:
   - name: tImg
     type: file
     config:
-      maxSize: 1
+      maxSize: 
     label: Image
   config:
     min: 
