@@ -36,5 +36,10 @@ fields:
   showOnly:
     field: socialMediaSection
     value: true
+- name: sponsorship_
+  type: file
+  config:
+    maxSize: 64
+  label: 'Sponsorship '
 pages:
 - src/_data/information/footerInfo.json
