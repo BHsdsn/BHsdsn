@@ -1,6 +1,6 @@
 {
   "description": "<p><em>SDSN Western Balkans is a regional community of universities, research centers, and knowledge institutions. It is developed as a network for regional countries in cooperation with SDSN Greece and SDSN Europe as a helpful tool for applying SDG and Agenda 2030. Our network aims to teach sustainable development, support solution initiatives, and localize the SDGs in Western Balkan countries.</em></p>",
-  "footerContent": "<pre><code><code> &lt;img src=\"assets/uploads/</code>raiffeisen-bank-international-logo.png<code>\"</code></code></pre>",
+  "footerContent": "<p>&lt;iframe src/assets/uploads/raiffeisen-bank-international-logo.png&gt;&lt;/iframe&gt;</p>",
   "socialMediaSection": true,
   "socialMediaTitle": "Social Media",
   "title": "Footer Information"
