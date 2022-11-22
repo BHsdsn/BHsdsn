@@ -29,9 +29,9 @@ fields:
     field: socialMediaSection
     value: true
 - name: footerContent
-  type: file
+  type: text
   config:
-    maxSize: 64
-  label: Custom content for footer
+    required: false
+  label: 'Custom content for footer '
 pages:
 - src/_data/information/footerInfo.json
